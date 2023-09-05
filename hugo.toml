@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Сиблекс Аренда'
+theme = 'hugo-theme-walden'
