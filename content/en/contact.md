@@ -9,6 +9,14 @@ menu: main
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "СИБЛЕКС"
+ОГРН 1115476096834
+ИНН 5404443470
+КПП 540801001
 
-{{< form-contact action="https://example.com"  >}}
+Юридический адрес
+630057, Новосибирская область, город Новосибирск, Смежная ул., д. 85
+
+Директор - Автоменко Алексей Сергеевич
+
+Электронная почта - PI-1993@BK.RU
