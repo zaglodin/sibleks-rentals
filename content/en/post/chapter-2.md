@@ -1,8 +1,7 @@
 ---
 # date: 2017-04-10T11:00:59-04:00
 description: "Аренда жилья"
-featured_image: ""
-tags: []
+featured_image: "/images/blocks.jpg"
 title: "Подберём жилье под ваши задачи"
 ---
 
